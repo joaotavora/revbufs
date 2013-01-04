@@ -1,0 +1,7 @@
+# revbufs
+
+My fork of this library, call `revbufs` for a safe reversion of buffers,
+listing orphans and conflicts in a separate buffer.
+
+I like Singletoned's reasoning in
+http://stackoverflow.com/questions/665600/how-can-i-get-emacs-to-revert-all-unchanged-buffers-when-switching-branches-in-g
