@@ -33,7 +33,7 @@
 ;; [Version 1.0, 04-Sep-1999] Initial release.
 
 ;;; Code:
-
+;;;###autoload
 (defun revbufs ()
   (interactive)
   (let ((conflicts  '())
